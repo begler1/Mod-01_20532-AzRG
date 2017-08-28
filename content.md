@@ -1,4 +1,4 @@
-﻿<!---
+<!---
 Version: 1.0 
 -->
 # Exercise 1: Signing in to the Azure Portal
@@ -16,7 +16,7 @@ You can use the Commands menu and choose Ctrl\+Alt\+Delete then click Student an
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = /screens/773838.jpg
+>* Uri = screens/773838.jpg
 >* ShowAutomatically = No
 
 
