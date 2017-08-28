@@ -1,5 +1,4 @@
-
-<!---
+﻿<!---
 Version: 1.0 
 -->
 # Exercise 1: Signing in to the Azure Portal
@@ -17,7 +16,7 @@ You can use the Commands menu and choose Ctrl\+Alt\+Delete then click Student an
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773838.jpg
+>* Uri = screens/773838.jpg
 >* ShowAutomatically = No
 
 
@@ -29,7 +28,7 @@ On the Start screen, click the Internet Explorer tile
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773839.jpg
+>* Uri = screens/773839.jpg
 
 
 
@@ -43,7 +42,7 @@ If you see a pop-up for Skype for Business click Don't Enable. If you see any me
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773841.jpg
+>* Uri = screens/773841.jpg
 
 
 
@@ -57,7 +56,7 @@ This is highly recommended so that your lab work can be on a separate Azure Subs
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773842.jpg
+>* Uri = screens/773842.jpg
 
 
 
@@ -71,7 +70,7 @@ If this is your first time logging in to the Azure portal, you may see a dialog 
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773840.jpg
+>* Uri = screens/773840.jpg
 
 
 
@@ -97,7 +96,7 @@ Right-click on the background to choose Edit dashboard. Alternatively, you can c
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773843.jpg
+>* Uri = screens/773843.jpg
 >* ShowAutomatically = No
 
 
@@ -112,7 +111,7 @@ If the Azure Health tile is not already on your dashboard, in the Tile Gallery, 
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773844.jpg
+>* Uri = screens/773844.jpg
 
 
 
@@ -123,7 +122,7 @@ Select the 2x4 size option.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773845.jpg
+>* Uri = screens/773845.jpg
 
 
 
@@ -134,7 +133,7 @@ In the Tile Gallery, drag the Markdown tile onto the bottom of your dashboard.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773846.jpg
+>* Uri = screens/773846.jpg
 
 
 
@@ -149,7 +148,7 @@ In the Content section of the Edit Markdown dialog that appears, update the Cont
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773847.jpg
+>* Uri = screens/773847.jpg
 
 
 
@@ -167,7 +166,7 @@ Erase the Title and Subtitle fields on the form. Click the Done button.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773848.jpg
+>* Uri = screens/773848.jpg
 
 
 
@@ -181,7 +180,7 @@ You can also click the Done customizing button at the top of the dashboard.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773849.jpg
+>* Uri = screens/773849.jpg
 
 
 
@@ -192,7 +191,7 @@ In the navigation pane on the left side, click More Services. You may have to sc
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773850.jpg
+>* Uri = screens/773850.jpg
 
 
 
@@ -203,7 +202,7 @@ Within the list located in the Browse panel that displays, click Subscriptions
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773851.jpg
+>* Uri = screens/773851.jpg
 
 
 
@@ -214,7 +213,7 @@ Observe the Subscriptions blade that displays.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773852.jpg
+>* Uri = screens/773852.jpg
 
 
 
@@ -225,7 +224,7 @@ Click the 'cog wheel' icon at the top of the dashboard to open the Portal Settin
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773853.jpg
+>* Uri = screens/773853.jpg
 
 
 
@@ -239,7 +238,7 @@ Note that you can click the Show menu button \(3 horizontal lines at top of menu
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773854.jpg
+>* Uri = screens/773854.jpg
 
 
 
@@ -250,7 +249,7 @@ In the Marketplace blade that displays, scroll left and select Web \+ Mobile.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773855.jpg
+>* Uri = screens/773855.jpg
 
 
 
@@ -261,7 +260,7 @@ In the Web \+ Mobile blade that displays, locate the search box at the top of th
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773856.jpg
+>* Uri = screens/773856.jpg
 
 
 
@@ -272,7 +271,7 @@ In the ASP.NET Starter Web App blade that displays, click Create.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773857.jpg
+>* Uri = screens/773857.jpg
 
 
 
@@ -283,7 +282,7 @@ In the next ASP.NET Starter Web App blade that displays, click the App Service p
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773858.jpg
+>* Uri = screens/773858.jpg
 
 
 
@@ -297,7 +296,7 @@ If a textbox is not available, simply click the create new option in the App Ser
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/666966.jpg
+>* Uri = screens/666966.jpg
 
 
 
@@ -308,7 +307,7 @@ Click Pricing tier to show pricing tiers
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/776344.jpg
+>* Uri = screens/776344.jpg
 
 
 
@@ -319,7 +318,7 @@ Scroll to the left, and click the close \(X\) button on the first ASP.NET Starte
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773860.jpg
+>* Uri = screens/773860.jpg
 
 
 
@@ -330,7 +329,7 @@ In the Message from webpage Internet Explorer dialog box, click OK  to discard 
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773861.jpg
+>* Uri = screens/773861.jpg
 
 
 
@@ -344,7 +343,7 @@ If shown, close the feedback blade.
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens//content/lab35895/screens/773862.jpg
+>* Uri = screens/773862.jpg
 
 
 
