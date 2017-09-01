@@ -9,10 +9,10 @@ Sign in to the Azure Portal.
 ## COMPLETION MESSAGE
 Results: After completing this exercise, you will have signed in to the Azure Portal.
 ### Login as Student
-Login as Student with a password of Pa$$w0rd. See Knowldge Tip for details on how to login.
+Login as Student with a password of Pa$$w0rd. See Knowledge Tip for details on how to login.
 
 #### :bulb: KNOWLEDGE
-You can use the Commands menu and choose Ctrl\+Alt\+Delete then click Student and enter Pa$$w0rd and press Enter. You can also use the Command menu and choose Paste/Paste Password instead of typing the password manually.
+You can use the Commands menu and choose Ctrl+Alt+Delete then click Student and enter Pa$$w0rd and press Enter. You can also use the Command menu and choose Paste/Paste Password instead of typing the password manually.
 
 #### :camera: SCREENSHOT
 >LODSProperties
@@ -89,7 +89,7 @@ Begin a journey.
 ## COMPLETION MESSAGE
 Results: After completing this exercise, you will have viewed blades, journeys, and journey parts.
 ### Customize the Dashboard
-After the dashboard is fully loaded, right-click the Dashboard \(home screen\), and then click Edit dashboard.
+After the dashboard is fully loaded, right-click the Dashboard (home screen), and then click Edit dashboard.
 
 #### :bulb: KNOWLEDGE
 Right-click on the background to choose Edit dashboard. Alternatively, you can click Edit dashboard at the top of the dashboard.
@@ -103,11 +103,11 @@ Right-click on the background to choose Edit dashboard. Alternatively, you can c
 
 
 
-### Edit the Azure Health tile
-Click the Azure Health tile on your dashboard. Click the button with three ellipses “…”.
+### Edit the Service Health tile
+Click the Service Health tile on your dashboard. Click the button with three ellipses “…”.
 
 #### :bulb: KNOWLEDGE
-If the Azure Health tile is not already on your dashboard, in the Tile Gallery, first drag the tile onto your dashboard. Note the Azure Health tile was previously called the Service Health tile.
+If the Service Health tile is not already on your dashboard, in the Tile Gallery, first drag the tile onto your dashboard. Note the Service Health tile was previously called the Azure Health tile.
 
 #### :camera: SCREENSHOT
 >LODSProperties
@@ -140,11 +140,11 @@ In the Tile Gallery, drag the Markdown tile onto the bottom of your dashboard.
 
 
 ### Enter custom markup
-In the Content section of the Edit Markdown dialog that appears, update the Content with the following markup: \(You can click in the Content area, select all the existing code then click the "A" button in this task window to copy the code. You will have to enter your own carriage return-line feed \(CRLF\) characters\)  
-\# Account Details:   
- \#\# Corporate Account   
- Account \*\*&\#35;&\#52;&\#55;&\#57;\*\* is managed by the \*\*\`\`IT\*\* department.\`\`.   
- > &copy;2016
+In the Content section of the Edit Markdown dialog that appears, update the Content with the following markup: (You can click in the Content area, select all the existing code then click the "A" button in this task window to copy the code. You will have to enter your own carriage return-line feed (CRLF) characters)  
+# Account Details:   
+## Corporate Account   
+Account **&#35;&#52;&#55;&#57;** is managed by the **IT** department.   
+> &copy;2016
 
 #### :camera: SCREENSHOT
 >LODSProperties
@@ -156,7 +156,7 @@ In the Content section of the Edit Markdown dialog that appears, update the Cont
 ```TypeText
 # Account Details: 
 ## Corporate Account 
-Account **&#35;&#52;&#55;&#57;** is managed by the **``IT** department.``. 
+Account **&#35;&#52;&#55;&#57;** is managed by the **IT** department. 
 > &copy;2016
 ```
 
@@ -173,7 +173,7 @@ Erase the Title and Subtitle fields on the form. Click the Done button.
 
 
 ### Click Done customizing
-Scroll-down to see the new tile, as an example of customization. Right-click the Dashboard \(home screen\), and then click Done customizing.
+Scroll-down to see the new tile, as an example of customization. Right-click the Dashboard (home screen), and then click Done customizing.
 
 #### :bulb: KNOWLEDGE
 You can also click the Done customizing button at the top of the dashboard.
@@ -231,10 +231,10 @@ Click the 'cog wheel' icon at the top of the dashboard to open the Portal Settin
 
 
 ### At the top-left corner of the screen, click + New
-At the top-left corner of the screen, click \+ New. In the New panel that displays, click the "See all" link next to the Marketplace header.
+At the top-left corner of the screen, click + New. In the New panel that displays, click the "See all" link next to the Marketplace header.
 
 #### :bulb: KNOWLEDGE
-Note that you can click the Show menu button \(3 horizontal lines at top of menu on left\) to show the full menu. You can click it again to Hide the menu \(showing just icons\).
+Note that you can click the Show menu button (3 horizontal lines at top of menu on left) to show the full menu. You can click it again to Hide the menu (showing just icons).
 
 #### :camera: SCREENSHOT
 >LODSProperties
@@ -245,7 +245,7 @@ Note that you can click the Show menu button \(3 horizontal lines at top of menu
 
 
 ### Scroll left and select Web + Mobile
-In the Marketplace blade that displays, scroll left and select Web \+ Mobile.
+In the Marketplace blade that displays, scroll left and select Web + Mobile.
 
 #### :camera: SCREENSHOT
 >LODSProperties
@@ -256,7 +256,7 @@ In the Marketplace blade that displays, scroll left and select Web \+ Mobile.
 
 
 ### Locate and select the ASP.NET Starter Web App
-In the Web \+ Mobile blade that displays, locate the search box at the top of the blade, type in the text "starter" and then press Enter. In the search results, locate and select the ASP.NET Starter Web App option.
+In the Web + Mobile blade that displays, locate the search box at the top of the blade, type in the text "starter" and then press Enter. In the search results, locate and select the ASP.NET Starter Web App option.
 
 #### :camera: SCREENSHOT
 >LODSProperties
@@ -314,7 +314,7 @@ Click Pricing tier to show pricing tiers
 
 
 ### Cancel the "journey"
-Scroll to the left, and click the close \(X\) button on the first ASP.NET Starter Web App blade to close the "journey".
+Scroll to the left, and click the close (X) button on the first ASP.NET Starter Web App blade to close the "journey".
 
 #### :camera: SCREENSHOT
 >LODSProperties
